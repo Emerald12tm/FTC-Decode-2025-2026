@@ -1,3 +1,7 @@
+## Our team code
+
+New to our robot code? Start with the **[TeamCode Guide](TEAM_GUIDE.md)**. It explains how everything works and how to make common changes. Our code lives in `TeamCode/src/main/java/org/firstinspires/ftc/teamcode/`.
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the DECODE (2025-2026) competition season.
